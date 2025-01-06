@@ -27,4 +27,4 @@ run_docker() {
 }
 
 # Run the kutubxona-backend project
-run_docker "kutubxona" "web"
+run_docker "online_library" "web"
